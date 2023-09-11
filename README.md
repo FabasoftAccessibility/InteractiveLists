@@ -34,7 +34,7 @@ The functionalities covered by the finder are comparable to the ones offered by 
 
 ### Fabasoft Cloud
 
-As an example for an online platform where files and objects can be arranged in different views is Fabasofts Folio-Cloud. 
+As an example for an online platform where files and objects can be arranged in different views is Fabasofts Cloud. 
 
 ![Content View - Fabasoft Cloud](FabasoftCloud/ContentView-FabasoftCloud.png)
 
@@ -42,7 +42,7 @@ As an example for an online platform where files and objects can be arranged in 
 
 ![Preview View - Fabasoft Cloud](FabasoftCloud/PreviewView-FabasoftCloud.png)
 
-![PrThumbnail View - Fabasoft Cloud](FabasoftCloud/ThumbnailView-FabasoftCloud.png)
+![Thumbnail View - Fabasoft Cloud](FabasoftCloud/ThumbnailView-FabasoftCloud.png)
 
 ## The role listview
 
