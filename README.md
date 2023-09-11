@@ -53,18 +53,21 @@ As Sarah and Stefan already suggested, we also propose another complex role: **l
 The listview role should contain the following semantic properties:
 
 ### Accessibility children roles:
-- listviewitem: basic list object
-  - feature
+- listviewitem: basic listview object
+  - feature: e.g: Values for filename, filesize, ...
 - group: to group listviewitems
 - featureheaders: container for featureheads (for detailed views)
-  - featurehead
+  - featurehead: heading for a feature
 
 ### Listview attributes
 
-- aria-listviewtype
-  - details | list | contents | tiles | symbols | thumbnails
+- aria-listviewtype:
+  - Allowed values: details | list | contents | tiles | symbols | thumbnails
 - aria-multiselectable
 - aria-readonly
-- aria-listviewfilter
-  - IDRef to the filter widget
+
+## Next steps
+
+- Filters: How can they be semanitcally connected to a list view?
+- Keyboard navigation in different list view types
 
