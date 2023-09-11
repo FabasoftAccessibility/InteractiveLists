@@ -46,10 +46,9 @@ As an example for an online platform where files and objects can be arranged in 
 
 ## The role listview
 
-The real problem for AT users, especially screen reader users is, that without this role the list has to change the roles tue to different display types from grid to treegrid (grouped lsit), to listbox (at the time the only possibility to display listview in list, content and tile type). The empty list ist at the time also a big problem.
+The real problem for AT users, especially screen reader users is, that without this role the list has to change the roles due to different display types from grid to treegrid (grouped lsit), to listbox (at the time the only possibility to display listview in list, content and tile type). The empty list is currently also a big problem.
 
-As Sarah and Stefan suggested years ago, we also propose another complex role: 
-listview.
+As Sarah and Stefan already suggested, we also propose another complex role: **listview**.
 
 The listview role should contain the following semantic properties:
 
