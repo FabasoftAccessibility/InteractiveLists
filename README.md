@@ -2,7 +2,7 @@
 
 ## Introduction
 
-For years, Microsoft has used the so-called Liswview role in Windows Explorer to display files and folders. Visually, there are several display types for the list:
+For years, Microsoft has used the so-called Listview role in Windows Explorer to display files and folders. Visually, there are several display types for the list:
 * Details
 * List
 * Contents
@@ -22,7 +22,7 @@ Files can be arranged in different views for a better overview, preview of conte
 
 ### Mac OSX - Finder
 
-The functionalities covered by the finder are comparable to the ones offered by the Microsofts file explorer.
+The functionalities covered by the finder are comparable to the ones offered by the Microsoft's file explorer.
 
 ![Coloumn View - Mac OSX - Finder](MacOSX/ColumnView-MacOSX.png)
 
@@ -46,7 +46,7 @@ As an example for an online platform where files and objects can be arranged in 
 
 ## The role listview
 
-The real problem for AT users, especially screen reader users is, that without this role the list has to change the roles due to different display types from grid to treegrid (grouped lsit), to listbox (at the time the only possibility to display listview in list, content and tile type). The empty list is currently also a big problem.
+The real problem for AT users, especially screen reader users is, that without this role the list has to change the roles due to different display types from grid to treegrid (grouped list), to listbox (at the time the only possibility to display listview in list, content and tile type). The empty list is currently also a big problem.
 
 As Sarah and Stefan already suggested, we also propose another complex role: **listview**.
 
