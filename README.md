@@ -53,9 +53,11 @@ As Sarah and Stefan already suggested, we also propose another complex role: **l
 The listview role should contain the following semantic properties:
 
 ### Accessibility children roles:
-- featureheaders
-- group
-- listviewitem
+- listviewitem: basic list object
+  - feature
+- group: to group listviewitems
+- featureheaders: container for featureheads (for detailed views)
+  - featurehead
 
 ### Listview attributes
 
